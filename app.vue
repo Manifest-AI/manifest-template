@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+    Manifest template working
   </div>
 </template>
